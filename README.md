@@ -1,2 +1,2 @@
 # hello-world
-Just to learn Github can help me manage my projects
+Just to learn how Github can help me manage my projects
